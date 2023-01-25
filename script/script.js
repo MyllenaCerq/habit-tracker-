@@ -13,7 +13,7 @@ function add() {
     const dayExists = nlwSetUp.dayExists(today) //verificar se o today inserido já existe 
 
     if(dayExists) {
-        alert('O dia já foi incluído. 💜')
+        alert('O dia já foi incluído. 🖤')
         return
     }
 
